@@ -4,7 +4,7 @@ I'm Wei Yu Ma, a Master's student at UCAS focusing on Game AI research.
 
 🔭 Check out my academic homepage: [https://histmeisah.github.io](https://histmeisah.github.io)
 
-- 🎮 Former StarCraft II Pro-gamer
+- 🎮 Former StarCraft II Amateur-gamer(semi-progamer)
 - 🤖 Currently working on Game AI research
 - 📫 How to reach me: sc2meisah@gmail.com
 
